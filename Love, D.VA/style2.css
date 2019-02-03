@@ -1,0 +1,30 @@
+  body{
+    font-size: 20px;
+       font-family: 'Lobster', cursive;
+  }
+
+  p{
+       color: dodgerblue;
+    }
+
+    h1{
+        color: blue;
+        font-size:80px;
+    }
+    div {
+        width:70%;
+        margin: auto;
+        padding: 50px
+        background-color: white;
+        box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
+    }
+    a{
+      text-decoration: none;
+       font-size: 80px;
+      color: tomato;
+    }  
+img{
+      max-width:100%;
+      height:auto;
+    
+    }

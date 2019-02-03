@@ -1,0 +1,32 @@
+body {
+  background-color: blue;
+    font-size: 20px;
+     font-family: 'Rubik', sans-serif;
+}
+
+  p {
+       color: dodgerblue;
+       font-size: 20px;
+       margin: 30px 0 0;
+  }
+
+   h1{
+        color: hotpink;
+        font-size:80px;
+ }
+ div {
+ width:70%;
+ margin: auto;
+ padding: 20px;
+ background-color: white;
+  }
+a {
+    text-decoration: none;
+    color: tomato
+  }
+  img {
+      max-width: 100%; 
+      height: auto;
+      display: block;
+      margin: 20px 0;
+}
